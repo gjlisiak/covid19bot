@@ -1,4 +1,4 @@
-# covid19bot
+# COVID-19 Healthcare Bot
 
 Coronavirus Healthcare Bot based on Schmitt-Thompson clinical triage protocols made publicly available by ClearTriage available at https://www.cleartriage.com/coronavirus_triage/.  
 
